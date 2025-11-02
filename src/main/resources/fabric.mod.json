@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "radiomod",
+  "version": "1.0.0",
+  "name": "Radio Mod",
+  "description": "Adds radio transmitters, SDR receivers, TV transmitters/receivers and cassette media to Minecraft.",
+  "authors": ["Hubert Czajka"],
+  "contact": {
+    "sources": "https://github.com/hubert444/RadioMod"
+  },
+  "license": "MIT",
+  "icon": "assets/radiomod/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.hubix444.radio.RadioMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "fabric": "*",
+    "minecraft": "1.20.1"
+  }
+}

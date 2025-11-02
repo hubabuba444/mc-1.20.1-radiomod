@@ -1,0 +1,8 @@
+{
+  "block.radiomod.radio_transmitter": "Radio Transmitter",
+  "block.radiomod.radio_receiver": "Radio Receiver",
+  "block.radiomod.tv_transmitter": "TV Transmitter",
+  "block.radiomod.tv_receiver": "TV Receiver",
+  "item.radiomod.cassette_audio": "Audio Cassette",
+  "item.radiomod.cassette_video": "Video Cassette"
+}
